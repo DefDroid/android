@@ -1,2 +1,0 @@
-# android
-DefDroid repo portal

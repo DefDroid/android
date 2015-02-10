@@ -1,0 +1,16 @@
+# DefDroid
+This is the portal of default manifest for DefDroid.
+
+# Getting Started
+To get started with DefDroid, you need to get familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
+To initialize a local repository of DefDroid, run the following command:
+```
+mkdir defdroid
+cd defdroid
+repo init -u https://github.com/DefDroid/android.git -b defdroid-4.4.3_r1
+```
+Then you can sync the local repository with 
+```
+repo sync
+```
+
