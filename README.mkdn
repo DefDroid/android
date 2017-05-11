@@ -1,5 +1,5 @@
 # DefDroid
-This is the portal of default manifest for DefDroid.
+This is the portal of default manifest for DefDroid on CyanogenMod codebase.
 
 # Getting Started
 To get started with DefDroid, you need to get familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
